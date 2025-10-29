@@ -33,5 +33,5 @@
 </p>
 
 <p align="center">
-  📫 You can also reach me directly: **abeer.sobhy.eg@gmail.com**
+  📫 You can also reach me directly: abeer.sobhy.eg@gmail.com
 </p>

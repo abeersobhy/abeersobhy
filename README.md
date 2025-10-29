@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 - 🎓 Computer and Control Systems Engineer
-- 💻 Focused on C, Embedded C, STM32 and RTOS 
+- 💻 Focused on C/C++, Embedded C, AVR, STM32 and RTOS 
 - 🌱 Currently learning: **Modern C++ and testing**
 - 🧠 Love turning hardware ideas into working prototypes
 

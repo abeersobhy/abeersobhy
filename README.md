@@ -27,9 +27,6 @@
   <a href="https://www.linkedin.com/in/abeer-sobhy/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"/>
   </a>
-<a href="mailto:abeer.sobhy.eg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
-  </a>
 </p>
 
 <p align="center">

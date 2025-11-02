@@ -1,4 +1,4 @@
-<h1 align="center">Abeer Sobhy Abdeladym</h1>
+<h1 align="center">Abeer Sobhy Abdeldaym</h1>
 
 <p align="center">
   <b>Embedded Systems Engineer | C/C++ Developer </b><br>
